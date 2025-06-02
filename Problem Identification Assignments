@@ -1,0 +1,24 @@
+Problem Identification Assignments
+
+Machine Learning Scenario based Question:
+
+A company works with number of employees, all the works are dependents on the employees. Even if one of the employees resign the job immediately then assigned work will be not finished at the time, so delivery of the project to the clients will be delayed. Company planned to make solution for this, they want to know which employee may resign next. If they know previously, they can arrange alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+
+A) How will you achieve this in AI?
+Ans: Based on the feedback form from all of the employees we can get to know whether they are available for next quarter in the financial year or not.
+
+B) Find out the 3 -Stage of Problem Identification ?
+ANS: 1.Machine learning (Number format in excel sheet for employee id which is our input)
+          2.Supervised (requirement was clear based on the feedback form and input and output was well defined)
+          3.Classification( classifying the output based on the input)
+
+C) Name the project : 
+ANS: Employee Prediction analysis
+
+D) Create the dummy Dataset.
+
+Employee Id	Employee name	Available for next financial year
+01	Xxxx	YES
+02	Yyyy	NO
+03	Zzzz	NO
+04	Qqqq	YES
