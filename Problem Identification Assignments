@@ -8,7 +8,7 @@ A) How will you achieve this in AI?
 Ans: Based on the feedback form from all of the employees we can get to know whether they are available for next quarter in the financial year or not.
 
 B) Find out the 3 -Stage of Problem Identification ?
-ANS: 1.Machine learning (Number format in excel sheet for employee id which is our input)
+ANS:      1.Machine learning (Number format in excel sheet for employee id which is our input)
           2.Supervised (requirement was clear based on the feedback form and input and output was well defined)
           3.Classification( classifying the output based on the input)
 
@@ -18,7 +18,7 @@ ANS: Employee Prediction analysis
 D) Create the dummy Dataset.
 
 Employee Id	Employee name	Available for next financial year
-01	Xxxx	YES
-02	Yyyy	NO
-03	Zzzz	NO
-04	Qqqq	YES
+01	           Xxxx	                    YES
+02	           Yyyy	                    NO
+03	           Zzzz	                    NO
+04	           Qqqq	                    YES
